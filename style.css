@@ -86,9 +86,11 @@
 .logo-gmail{
     color: #ffff;
 }
+.alert{
+    display: none;
+}
 @media only screen and (max-width:767px){
    .container-section-words{
     margin-top: 2rem;
    }
 }
-
